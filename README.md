@@ -1,4 +1,4 @@
-# Power BI Operational Analytics Portfolio
+# Operational Analytics Portfolio
 
 Enterprise analytics, operational reporting, dashboard development, and automation projects built using Power BI, SQL, Python, DAX, and Power Query.
 
@@ -6,7 +6,7 @@ Enterprise analytics, operational reporting, dashboard development, and automati
 
 # Featured Projects
 
-## Enterprise O&M Dashboard
+## Power BI Enterprise O&M Dashboard
 
 [View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/tree/main/enterprise-om-dashboard)
 
@@ -20,7 +20,7 @@ Operational analytics dashboard focused on KPI monitoring, completion rates, and
 
 ---
 
-## Enterprise Data Quality Dashboard
+## Power BI Enterprise Data Quality Dashboard
 
 [View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/tree/main/enterprise-data-quality-dashboard)
 
@@ -39,6 +39,24 @@ Enterprise data governance and compliance analytics solution supporting DMLSS da
 - DAX & Power Query
 - Reporting Automation
 - Data Governance
+
+---
+## Python Enterprise Work Request Sorting
+[View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/tree/main/python_reporting-automation)
+
+Legacy facility management systems created major bottlenecks in the sorting and printing of work requests, requiring teams to manually process tens of thousands of records. This Python application was developed to automate the sorting, organization, and generation of consolidated print-ready files within a highly restricted security environment. The need was recognized, and a solution was developed.
+
+The solution was deployed across 250+ Defense Health Agency Facilities Operations locations and reduced processing time from more than 8 hours to approximately 15 minutes, significantly improving operational efficiency and reducing administrative workload.
+
+---
+
+# Skills Demonstrated
+
+- Python
+- Software Development
+- Software Deployment
+- Stakeholder Coordination
+- Program Mangement
 
 ---
 
