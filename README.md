@@ -18,12 +18,11 @@ Operational analytics dashboard focused on KPI monitoring, completion rates, and
 - Power Query
 - SQL
 
-
 ---
 
 ## Enterprise Data Quality Dashboard
 
-[View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/enterprise-data-quality-dashboard/)
+[View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/tree/main/enterprise-data-quality-dashboard)
 
 Enterprise data governance and compliance analytics solution supporting DMLSS data quality initiatives.
 
