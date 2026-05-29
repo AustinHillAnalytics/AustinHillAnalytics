@@ -8,7 +8,7 @@ Enterprise analytics, operational reporting, dashboard development, and automati
 
 ## Enterprise O&M Dashboard
 
-[View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/enterprise-om-dashboard)
+[View Full Project](https://github.com/AustinHillAnalytics/powerbi-operational-analytics/tree/main/enterprise-om-dashboard)
 
 Operational analytics dashboard focused on KPI monitoring, completion rates, and enterprise reporting visibility across large-scale facilities operations.
 
